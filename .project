@@ -3,6 +3,8 @@
 	<name>TooNew</name>
 	<comment></comment>
 	<projects>
+		<project>RemoteSystemsTempFiles</project>
+		<project>TotallyNewOne</project>
 	</projects>
 	<buildSpec>
 	</buildSpec>
